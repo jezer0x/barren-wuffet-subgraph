@@ -1,0 +1,9 @@
+# graph-node 
+data/ 
+
+# Subgraph
+generated/
+build/
+
+# Matchstick
+tests/.*

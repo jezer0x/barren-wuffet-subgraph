@@ -8,7 +8,8 @@
     "create-local": "graph create --node http://localhost:8020/ barren-wuffet",
     "remove-local": "graph remove --node http://localhost:8020/ barren-wuffet",
     "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 barren-wuffet",
-    "test": "graph test"
+    "test": "graph test", 
+    "graph-local-clean": "docker-compose down -v && docker-compose rm -v && rm -rf data/ipfs data/postgres"
   },
   "dependencies": {
     "@graphprotocol/graph-cli": "^0.35.0",
