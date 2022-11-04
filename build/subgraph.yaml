@@ -7,8 +7,8 @@ dataSources:
     network: goerli
     source:
       abi: BarrenWuffet
-      address: "0x39a1BDAccA4853ABe14F7f0451a306CeA9adD6A3"
-      startBlock: 7887784
+      address: "0x47561E20a515cD27aC0375e6Ec2eb60506788023"
+      startBlock: 7892617
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.6
