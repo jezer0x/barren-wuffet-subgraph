@@ -6,8 +6,8 @@
   },
   "goerli": {
     "BarrenWuffet": {
-      "address": "0x47561E20a515cD27aC0375e6Ec2eb60506788023",
-      "startBlock": 7892617
+      "address": "0x15733B508E25FD5EA53404e391BC3cDA9DBd5F7E",
+      "startBlock": 7900766
     }
   }
 }
