@@ -33,7 +33,7 @@ This mostly follows: https://github.com/graphprotocol/hardhat-graph
 
 ## Deploying / Updating
 
-- We're deploying to hostred service since subgraph studio does not support testnets or arbitrum yet.
+- We're deploying to hosted service since subgraph studio does not support testnets or arbitrum yet.
 - Follow: https://thegraph.com/docs/en/deploying/deploying-a-subgraph-to-hosted/
 - yarn graph auth --product hosted-service <KEY>
 - yarn build --network <network_name>
